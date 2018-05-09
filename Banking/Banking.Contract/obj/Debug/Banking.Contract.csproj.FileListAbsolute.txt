@@ -1,0 +1,15 @@
+C:\repos\Banking\Banking.Contract\bin\Debug\Banking.Contract.dll
+C:\repos\Banking\Banking.Contract\bin\Debug\Banking.Contract.pdb
+C:\repos\Banking\Banking.Contract\obj\Debug\Banking.Contract.dll
+C:\repos\Banking\Banking.Contract\obj\Debug\Banking.Contract.pdb
+C:\repos\Banking\Banking.Contract\obj\Debug\Banking.Contract.csprojResolveAssemblyReference.cache
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\bin\Debug\Banking.Contract.dll
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\bin\Debug\Banking.Contract.pdb
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.csprojResolveAssemblyReference.cache
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.csproj.CoreCompileInputs.cache
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.dll
+C:\Users\moodya\Downloads\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.pdb
+C:\repos\Banking\Banking\Banking.Contract\bin\Debug\Banking.Contract.dll
+C:\repos\Banking\Banking\Banking.Contract\bin\Debug\Banking.Contract.pdb
+C:\repos\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.dll
+C:\repos\Banking\Banking\Banking.Contract\obj\Debug\Banking.Contract.pdb
